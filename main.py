@@ -89,7 +89,7 @@ def main():
 
 
         if gets_coins.__len__() > 0:
-            points += 3
+            points += 5
             coins.remove(gets_coins)
 
 
